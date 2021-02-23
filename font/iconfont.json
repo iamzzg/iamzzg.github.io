@@ -1,0 +1,79 @@
+{
+  "id": "2319453",
+  "name": "lagou",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "145488",
+      "name": "二维码",
+      "font_class": "erweima",
+      "unicode": "e65f",
+      "unicode_decimal": 58975
+    },
+    {
+      "icon_id": "5118311",
+      "name": "下载",
+      "font_class": "xiazai",
+      "unicode": "e680",
+      "unicode_decimal": 59008
+    },
+    {
+      "icon_id": "6154432",
+      "name": "微信",
+      "font_class": "weixin",
+      "unicode": "e82c",
+      "unicode_decimal": 59436
+    },
+    {
+      "icon_id": "6756291",
+      "name": "微博",
+      "font_class": "weibo",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "485763",
+      "name": "收 藏",
+      "font_class": "shoucang",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "6684369",
+      "name": "纸飞机",
+      "font_class": "zhifeiji",
+      "unicode": "e681",
+      "unicode_decimal": 59009
+    },
+    {
+      "icon_id": "12028188",
+      "name": "21act_邀约new",
+      "font_class": "act_yaoyuenew",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "17539618",
+      "name": "订阅",
+      "font_class": "dingyue",
+      "unicode": "eda4",
+      "unicode_decimal": 60836
+    },
+    {
+      "icon_id": "6756994",
+      "name": "用户",
+      "font_class": "yiliaohangyedeICON-",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "4437603",
+      "name": "下箭头",
+      "font_class": "xiajiantou",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    }
+  ]
+}
