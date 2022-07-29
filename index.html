@@ -1,0 +1,67 @@
+<!DOCTYPE html><html lang=""><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width,initial-scale=1"><link rel="icon" href="favicon.ico"><title>water-level-detection</title><link href="static/css/app.e6796038.css" rel="preload" as="style"><link href="static/css/chunk-vendors.fae3a627.css" rel="preload" as="style"><link href="static/js/app.3a5259a8.js" rel="preload" as="script"><link href="static/js/chunk-vendors.8ef9b3b1.js" rel="preload" as="script"><link href="static/css/chunk-vendors.fae3a627.css" rel="stylesheet"><link href="static/css/app.e6796038.css" rel="stylesheet"></head><body><noscript><strong>We're sorry but water-level-detection doesn't work properly without JavaScript enabled. Please enable it to continue.</strong></noscript><div id="app"><style>html,
+        body {
+          width: 100%;
+          height: 100%;
+          margin: 0;
+          padding: 0;
+        }
+        .app-loading {
+          position: fixed;
+          left: 0;
+          top: 0;
+          display: flex;
+          width: 100%;
+          height: 100%;
+          justify-content: center;
+          align-items: center;
+          background-color: rgba(8, 106, 197, 0.096);
+        }
+        .app-loading .app-loading-wrap {
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          align-items: center;
+        }
+        .app-loading .app-loading-wrap .dots-wrap {
+          width: 40px;
+          height: 40px;
+          position: relative;
+          animation: dotRotate 1s linear infinite;
+        }
+        .app-loading .app-loading-wrap .dots-wrap i {
+          display: block;
+          position: absolute;
+          padding: 6px;
+          border-radius: 50%;
+          background-color: rgb(20, 185, 185);
+          /* margin: 5px 0; */
+        }
+        .loading-text {
+          margin-top: 20px;
+          color: #333;
+        }
+        .dots-wrap i:nth-child(1) {
+          left: 0;
+          top: 0;
+        }
+        .dots-wrap i:nth-child(2) {
+          right: 0;
+          top: 0;
+        }
+        .dots-wrap i:nth-child(3) {
+          left: 0;
+          bottom: 0;
+        }
+        .dots-wrap i:nth-child(4) {
+          right: 0;
+          bottom: 0;
+        }
+
+        @keyframes dotRotate {
+          0% {
+            transform: rotate(0deg);
+          }
+          100% {
+            transform: rotate(360deg);
+          }
+        }</style><div class="app-loading"><div class="app-loading-wrap"><div class="dots-wrap"><i></i> <i></i> <i></i> <i></i></div><div class="loading-text">加载中...</div></div></div></div><script src="./config.js"></script><script src="static/js/chunk-vendors.8ef9b3b1.js"></script><script src="static/js/app.3a5259a8.js"></script></body></html>
